@@ -1,0 +1,43 @@
+body {
+	background-color: #ffebba;
+}
+
+#titlu {
+	color: #00b5b2;
+	text-align: center;
+	font-family: arial;
+	font-size: 60px;
+}
+
+h3 {
+	color: #2b95ff;
+	font-size: 30px;
+}
+
+h1 {
+	color: yellow;
+	font-size: 60px;
+	text-align: center;
+}
+
+p {
+	color: #00b548;
+}
+
+img {
+	border-radius: 30%;
+	opacity: 0.8;
+	text-align: left-side;
+}
+
+li {
+	color: #00b548;
+}
+
+th {
+	color: blue;
+}
+
+#coperta {
+	font-size: 22px;
+}
